@@ -2,6 +2,8 @@
 
 ico file https://ipfs.io/ipfs/QmdYLftg7J2QYfVR95NvBkPB4czvSraLSvRxKvKFB2TMCv
 
+basic instructions: https://ipfs.io/ipfs/QmPcVaet2wTtgwuB78jB4U1ExWVFQWQ8YEsUuLqgb5itwu
+
 red back https://ipfs.io/ipfs/QmbYPHQMBVdV9swzJYP4UCoGeUX8dzRrx2UDQRyFs2YKpV
 
 blue back https://ipfs.io/ipfs/QmUkAMg9CQE7axA179N8BMm9qhPvaDBdepogVf1e5rdKHD
