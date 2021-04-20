@@ -2,7 +2,7 @@
 
 ico file https://ipfs.io/ipfs/QmdYLftg7J2QYfVR95NvBkPB4czvSraLSvRxKvKFB2TMCv
 
-basic instructions: https://ipfs.io/ipfs/QmPcVaet2wTtgwuB78jB4U1ExWVFQWQ8YEsUuLqgb5itwu
+basic instructions: https://ipfs.io/ipfs/Qmc4n2d9YxVUQbHvnsXGYpUz7AYcRDcnW4k53RQvGt8EjQ
 
 red back https://ipfs.io/ipfs/QmbYPHQMBVdV9swzJYP4UCoGeUX8dzRrx2UDQRyFs2YKpV
 
@@ -28,3 +28,4 @@ curricular 0x5b541C1f4E8497630D127B71c21DE385EE6DC2CD
 tracker 0x364B1CB7264fd74f7303276672198Ae3465A5D3f
 shop 0x1Cf58F20D8d6D3814A21A6fff6a17F173eC966C8
 collection 1 0x7a7e4E20962152ce900b38513DE9e7b61F959264
+c1 meta ipfs://ipfs/QmaxwMXsAcxTn935dqCp8YsSGyq3SEMv8MLvJvfPpYCXhx
