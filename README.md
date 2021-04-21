@@ -34,3 +34,5 @@ shop 0x1Cf58F20D8d6D3814A21A6fff6a17F173eC966C8
 collection 1 0x7a7e4E20962152ce900b38513DE9e7b61F959264
 
 c1 meta ipfs://ipfs/QmcQYcq2u9nWDgNg4njW9cFNx3psPjyPUBLZbcyeCRL51t
+
+cypherpunk meta ipfs://ipfs/QmdAks6LxQ248yDJYEyd3tY4MJKGqt9M1TPFnTUVBReMX4
