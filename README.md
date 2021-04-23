@@ -35,4 +35,4 @@ collection 1 0x7a7e4E20962152ce900b38513DE9e7b61F959264
 
 c1 meta ipfs://ipfs/QmcQYcq2u9nWDgNg4njW9cFNx3psPjyPUBLZbcyeCRL51t
 
-cypherpunk meta ipfs://ipfs/QmasxKJi7nBHfwLWR46PAPsSb2JW2bMjYjCK8sQMFRThYr
+cypherpunk meta ipfs://ipfs/QmdHM18NF1EQS5WJwWVTE2dgkcr6mxX2XKKH861eSVpPua
